@@ -16,3 +16,4 @@ elif operator == '/':
 else:
     result = "Error: Invalid operator."
 
+print("The result is:", result)
